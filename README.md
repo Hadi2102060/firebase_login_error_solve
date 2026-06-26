@@ -61,7 +61,7 @@ Dart 3.4.0
 - Flutter না থাকলে:  [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/install/archive?tab)
 
     <p align="center">
-    <img src="assets/image.png" width="650" height="450" alt="Picture 1" />
+    <img src="assets/screenshot2.png" width="650" height="450" alt="Picture 1" />
     &nbsp;&nbsp;&nbsp;
     </p>
 
@@ -420,6 +420,14 @@ https://your-project-id.web.app
 firebase deploy --only hosting --message "Release v1.0.0"
 ```
 
+
+
+# Flutter different platform apk file generated commands : 
+
+ <p align="center">
+    <img src="assets/image.png" width="850" height="450" alt="Picture 1" />
+    &nbsp;&nbsp;&nbsp;
+    </p>
 ---
 
 ## Troubleshooting / Common Errors
